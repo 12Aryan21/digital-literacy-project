@@ -2,7 +2,7 @@
 ### The project for "Digital Literacy" course of winter 26' sem .
 
 # Name:Aryan Malhotra
-# Branch: B.Tech CSE
+# Branch: B.Tech CSE(Cyber Security abd Digital Forensic)
 # Year: 1st Year
 # Project Overview
 ### This project demonstrates digital literacy skills including online presence, communication, cybersecurity awareness, and use of digital tools.
